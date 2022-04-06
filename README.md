@@ -14,6 +14,8 @@ I love to create new things, I enjoy my work, at the moment I focus on web appli
       <img src="https://github.com/thezline/resourses/blob/main/images/js.svg" />
       <img src="https://github.com/thezline/resourses/blob/main/images/php.svg" />
       <img src="https://github.com/thezline/resourses/blob/main/images/python.svg" />
+      <img src="https://github.com/thezline/resourses/blob/main/images/java.svg" />
+      <img src="https://github.com/thezline/resourses/blob/main/images/csharp_dotnet.svg" />
       <img src="https://github.com/thezline/resourses/blob/main/images/css3.svg" />
       <img src="https://github.com/thezline/resourses/blob/main/images/html.svg" />
 </p>  
