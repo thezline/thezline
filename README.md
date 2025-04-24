@@ -1,10 +1,9 @@
 ### Hi dude 👋
 
-Hi! My name is Juan Bajonero, junior developer and software development engineer.
+Hi! My name is Juan Bajonero, developer and software development engineer.
 
 I love to create new things, I enjoy my work, at the moment I focus on web applications, but I also enjoy to develop mobile and desktop applications.
 
-- 🌱 I’m currently learning TypeScript.
 - 💬 Ask me about PHP, JAVA, JavaScript.
 - 📫 How to reach me: juan.bajonero@outlook.com
 
