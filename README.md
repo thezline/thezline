@@ -1,11 +1,12 @@
 ### Hi dude 👋
 
 Hi! My name is Juan Bajonero, developer and software development engineer.
+View my portfolio: [https://portafolio-alpha-khaki.vercel.app/](https://portafolio-alpha-khaki.vercel.app/)
 
 I love to create new things, I enjoy my work, at the moment I focus on web applications, but I also enjoy to develop mobile and desktop applications.
 
-- 💬 Ask me about PHP, JAVA, JavaScript.
-- 📫 How to reach me: juan.bajonero@outlook.com
+- 💬 Ask me about PHP, JAVA, JavaScript, Python.
+- 📫 How to reach me: juan.bajonero.gdcan@gmail.com
 
 ## Used
 <p align="center">
